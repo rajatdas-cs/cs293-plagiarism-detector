@@ -2,9 +2,9 @@
 
 Can run with:
 
-cd plagiarism-detector
-mkdir build
-cd build
-cmake ..
-make
+cd plagiarism-detector\
+mkdir build\
+cd build\
+cmake ..\
+make\
 ./plagiarism_detector ../test1.cpp ../test2.cpp
